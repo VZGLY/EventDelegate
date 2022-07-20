@@ -1,0 +1,15 @@
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\bin\Debug\net6.0\EventDelegate.exe
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\bin\Debug\net6.0\EventDelegate.deps.json
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\bin\Debug\net6.0\EventDelegate.runtimeconfig.json
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\bin\Debug\net6.0\EventDelegate.dll
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\bin\Debug\net6.0\EventDelegate.pdb
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\obj\Debug\net6.0\EventDelegate.csproj.AssemblyReference.cache
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\obj\Debug\net6.0\EventDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\obj\Debug\net6.0\EventDelegate.AssemblyInfoInputs.cache
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\obj\Debug\net6.0\EventDelegate.AssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\obj\Debug\net6.0\EventDelegate.csproj.CoreCompileInputs.cache
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\obj\Debug\net6.0\EventDelegate.dll
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\obj\Debug\net6.0\refint\EventDelegate.dll
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\obj\Debug\net6.0\EventDelegate.pdb
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\obj\Debug\net6.0\EventDelegate.genruntimeconfig.cache
+C:\Users\GavinC\RiderProjects\EventDelegate\EventDelegate\obj\Debug\net6.0\ref\EventDelegate.dll
